@@ -2,6 +2,10 @@
 
 ![Приветствие](https://i.gifer.com/YQgT.gif)
 
+<p align="center">
+ <img width="480" src="Assets/greeting.gif" alt="Greeting"/>
+</p>
+
 ## 🌱 О себе
 - 💻 Я разработчик с опытом в Python.
 - 🌍 Я живу в Израиле.
