@@ -1,7 +1,7 @@
 # Привет, я Итай 👋
 
 <p align="center">
- <img width="480" src="https://media.giphy.com/media/3o7buirY5jF1K6N8Oc/giphy.gif" alt="Greeting"/>
+ <img width="480" src="Assets/greeting.gif" alt="Greeting"/>
 </p>
 
 ## 🌱 О себе
@@ -12,16 +12,16 @@
 ## 🔧 Технологии
 <p>
   <strong>💻 Языки:</strong><br>
-  <span style="font-size: 1.2em;">🐍 Python | ☕ JavaScript | 💎 Ruby</span><br><br>
+  <span style="font-size: 1.2em;">🐍 Python</span><br><br>
   
   <strong>⚙️ Фреймворки:</strong><br>
-  <span style="font-size: 1.2em;">⚡ Flask | 🌐 Django | 📱 React</span><br><br>
+  <span style="font-size: 1.2em;">⚡ Flask</span><br><br>
   
   <strong>🗄️ Базы данных:</strong><br>
-  <span style="font-size: 1.2em;">🗄️ SQLite | 📊 PostgreSQL</span><br><br>
+  <span style="font-size: 1.2em;">🗄️ SQLite</span><br><br>
   
   <strong>🛠️ Инструменты:</strong><br>
-  <span style="font-size: 1.2em;">🖥️ Visual Studio Code | 🔧 Git | 📦 Docker</span>
+  <span style="font-size: 1.2em;">🖥️ Visual Studio Code | 🔧 Git</span>
 </p>
 
 ## 📈 Статистика
