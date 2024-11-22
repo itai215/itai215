@@ -11,24 +11,17 @@
 
 ## 🔧 Технологии
 <p align="center">
-  <strong>Языки:</strong> 
-  <span>🐍 Python</span> | 
-  <span>☕ JavaScript</span> | 
-  <span>💎 Ruby</span><br>
+  <strong>💻 Языки:</strong><br>
+  <span style="font-size: 1.2em;">🐍 Python | ☕ JavaScript | 💎 Ruby</span><br><br>
   
-  <strong>Фреймворки:</strong> 
-  <span>⚡ Flask</span> | 
-  <span>🌐 Django</span> | 
-  <span>📱 React</span><br>
+  <strong>⚙️ Фреймворки:</strong><br>
+  <span style="font-size: 1.2em;">⚡ Flask | 🌐 Django | 📱 React</span><br><br>
   
-  <strong>Базы данных:</strong> 
-  <span>🗄️ SQLite</span> | 
-  <span>📊 PostgreSQL</span><br>
+  <strong>🗄️ Базы данных:</strong><br>
+  <span style="font-size: 1.2em;">🗄️ SQLite | 📊 PostgreSQL</span><br><br>
   
-  <strong>Инструменты:</strong> 
-  <span>🖥️ Visual Studio Code</span> | 
-  <span>🔧 Git</span> | 
-  <span>📦 Docker</span>
+  <strong>🛠️ Инструменты:</strong><br>
+  <span style="font-size: 1.2em;">🖥️ Visual Studio Code | 🔧 Git | 📦 Docker</span>
 </p>
 
 ## 📈 Статистика
