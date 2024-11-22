@@ -1,9 +1,7 @@
 # Привет, я Итай 👋
 
-![Приветствие](https://i.gifer.com/YQgT.gif)
-
 <p align="center">
- <img width="480" src="Assets/greeting.gif" alt="Greeting"/>
+ <img width="480" src="Assets/greeting.svg" alt="Greeting"/>
 </p>
 
 ## 🌱 О себе
