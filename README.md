@@ -11,9 +11,24 @@
 
 ## 🔧 Технологии
 <p align="center">
-  <strong>Языки:</strong> Python<br>
-  <strong>Фреймворки:</strong> Flask<br>
-  <strong>Инструменты:</strong> Visual Studio Code, SQLite
+  <strong>Языки:</strong> 
+  <span>🐍 Python</span> | 
+  <span>☕ JavaScript</span> | 
+  <span>💎 Ruby</span><br>
+  
+  <strong>Фреймворки:</strong> 
+  <span>⚡ Flask</span> | 
+  <span>🌐 Django</span> | 
+  <span>📱 React</span><br>
+  
+  <strong>Базы данных:</strong> 
+  <span>🗄️ SQLite</span> | 
+  <span>📊 PostgreSQL</span><br>
+  
+  <strong>Инструменты:</strong> 
+  <span>🖥️ Visual Studio Code</span> | 
+  <span>🔧 Git</span> | 
+  <span>📦 Docker</span>
 </p>
 
 ## 📈 Статистика
