@@ -10,7 +10,7 @@
 </p>
 
 ## 🔧 Технологии
-<p align="center">
+<p>
   <strong>💻 Языки:</strong><br>
   <span style="font-size: 1.2em;">🐍 Python | ☕ JavaScript | 💎 Ruby</span><br><br>
   
