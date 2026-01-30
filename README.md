@@ -34,7 +34,7 @@
 
 ### 🛠️ Инструменты
 
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🚀 Проекты
@@ -45,11 +45,10 @@
 * **Особенность:** Автоматизация процессов и уникальные механики
 * **Стек:** javascript, deno, `discordeno.js`, работа с асинхронными циклами.
 
-## 📈 Активность
+## 📈 Статистика
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/itai215?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.sections=most-used&languages.details=percentage&theme=dark" alt="Metrics" />
-</p>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=itai215&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=itai215&layout=compact&theme=radical)
 
 ## 📫 Связь со мной
 
