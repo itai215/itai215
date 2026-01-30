@@ -24,7 +24,7 @@
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Deno](https://img.shields.io/badge/deno%20/%20runtime-000000?style=for-the-badge&logo=deno&logoColor=white)
-![Disnake](https://img.shields.io/badge/discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Disnake](https://img.shields.io/badge/disnake-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine&logoColor=blue)
 
 ### 🗄️ Базы данных
@@ -45,12 +45,10 @@
 * **Особенность:** Автоматизация процессов и уникальные механики
 * **Стек:** javascript, deno, `discordeno.js`, работа с асинхронными циклами.
 
-## 📈 Статистика GitHub
+## 📈 Активность
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itai215&show_icons=true&theme=radical&count_private=true" alt="Itai's Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itai215&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://metrics.lecoq.io/itai215?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.sections=most-used&languages.details=percentage&theme=dark" alt="Metrics" />
 </p>
 
 ## 📫 Связь со мной
