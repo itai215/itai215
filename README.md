@@ -5,13 +5,12 @@
 </p>
 
 ## 🌱 О себе
+
 Я разработчик из Израиля, специализирующийся на **Python**.  
 
 - 🎓 Учусь в школе по технологической специальности.
 - 🤖 Разрабатываю сложных Discord-ботов с элементами экономики и глобальной стратегии.
 - 🎮 Экспериментирую с геймдевом в **Godot** и **Roblox**.
-
----
 
 ## 🔧 Технологии и инструменты
 
@@ -25,7 +24,7 @@
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Deno](https://img.shields.io/badge/deno%20/%20runtime-000000?style=for-the-badge&logo=deno&logoColor=white)
-![Discord.py](https://img.shields.io/badge/discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Disnake](https://img.shields.io/badge/discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine&logoColor=blue)
 
 ### 🗄️ Базы данных
@@ -38,8 +37,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
-
 ## 🚀 Проекты
 
 ### **World Politics Bot** 🌍
@@ -48,17 +45,13 @@
 * **Особенность:** Автоматизация процессов и уникальные механики
 * **Стек:** javascript, deno, `discordeno.js`, работа с асинхронными циклами.
 
----
-
 ## 📈 Статистика GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itai215&show_icons=true&theme=radical&rank_icon=github" alt="Itai's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itai215&show_icons=true&theme=radical&count_private=true" alt="Itai's Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itai215&layout=compact&theme=radical" alt="Top Langs" />
 </p>
-
----
 
 ## 📫 Связь со мной
 
