@@ -13,12 +13,15 @@
 <p>
   <strong>💻 Языки:</strong><br>
   <span style="font-size: 1.2em;">🐍 Python</span><br><br>
+  <span style="font-size: 1.2em;">📜 JavaScript</span><br><br>
   
   <strong>⚙️ Фреймворки:</strong><br>
   <span style="font-size: 1.2em;">⚡ Flask</span><br><br>
+  <span style="font-size: 1.2em;">⚙️ Deno</span><br><br>
   
   <strong>🗄️ Базы данных:</strong><br>
   <span style="font-size: 1.2em;">🗄️ SQLite</span><br><br>
+  <span style="font-size: 1.2em;">🌐 MongoDB</span><br><br>
   
   <strong>🛠️ Инструменты:</strong><br>
   <span style="font-size: 1.2em;">🖥️ Visual Studio Code | 🔧 Git</span>
