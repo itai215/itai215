@@ -38,9 +38,8 @@ I am a developer from Israel, specializing on **Python** .
 
 ## Activity
 
-![WakaActivity](https://wakatime.com/insights/animated/days.gif)
-<img src="https://widget.ennead.cc/compact?id=978692133240340541&theme=dark&nameplate=true&nameplate_animated=true" alt="Funpay"/>
-
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=itai215&layout=compact&theme=radical" alt="WakaTime Stats" /> 
+![Discord](https://discord-readme-badge.vercel.app/api?id=978692133240340541)
 
 ## 📈 Stats
 
