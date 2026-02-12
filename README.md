@@ -23,6 +23,7 @@ I am a developer from Israel, specializing on **Python** .
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Deno](https://img.shields.io/badge/deno%20/%20runtime-000000?style=for-the-badge&logo=deno&logoColor=white)
 ![Disnake](https://img.shields.io/badge/disnake-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Discordeno](https://img.shields.io/badge/Discordeno-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine&logoColor=blue)
 
 ### 🗄️ Databases
@@ -38,15 +39,7 @@ I am a developer from Israel, specializing on **Python** .
 ## Activity
 
 ![WakaActivity](https://wakatime.com/insights/animated/days.gif)
-
-<iframe
-  title="User Widget"
-  width="289"
-  height="48"
-  frameborder="0"
-  sandbox="allow-scripts"
-  src="https://widget.ennead.cc/compact?id=978692133240340541&theme=dark&nameplate=true&nameplate_animated=true"
-></iframe>
+<img src="https://widget.ennead.cc/compact?id=978692133240340541&theme=dark&nameplate=true&nameplate_animated=true" alt="Funpay"/>
 
 
 ## 📈 Stats
