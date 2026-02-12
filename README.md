@@ -38,8 +38,14 @@ I am a developer from Israel, specializing on **Python** .
 ## Activity
 
 ![WakaActivity](https://wakatime.com/insights/animated/days.gif) 
-[![Discord Presence](https://lanyard.cnrad.dev/api/978692133240340541)](https://discord.com/users/978692133240340541)  
-<img src="https://lanyard.kyrie25.me/api/978692133240340541?theme=dark&bg=1a1b27&animated=true" />
+<iframe
+  title="User Widget"
+  width="289"
+  height="48"
+  frameborder="0"
+  sandbox="allow-scripts"
+  src="https://widget.ennead.cc/compact?id=978692133240340541&theme=dark&nameplate=true&nameplate_animated=true"
+></iframe>
 
 
 ## 📈 Stats
