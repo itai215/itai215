@@ -38,7 +38,6 @@ I am a developer from Israel, specializing on **Python** .
 
 ## Activity
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=itai215&layout=compact&theme=radical" alt="WakaTime Stats" /> 
 ![Discord](https://discord-readme-badge.vercel.app/api?id=978692133240340541)
 
 ## 📈 Stats
