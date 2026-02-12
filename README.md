@@ -2,47 +2,44 @@
 
 <img width="480" src="Assets/greeting.gif" alt="Greeting"/>
 
-## 🌱 О себе
+## 🌱 About Me
 
-Я разработчик из Израиля, специализирующийся на **Python**.  
+I am a developer from Israel, specializing on **Python** .  
 
-- 🎓 Учусь в школе по технологической специальности.
-- 🤖 Разрабатываю сложных Discord-ботов с элементами экономики и глобальной стратегии.
-- 🎮 Экспериментирую с геймдевом в **Godot** и **Roblox**.
+- 🎓 I study at school, focused in technology stack.
+- 🤖 Developing bots at Discord.
+- 🎮 Experimenting with GameDev at **Godot** and **Roblox**.
 
-## 🔧 Технологии и инструменты
+## 🔧 Technologies and tools
 
-### 💻 Языки программирования
+### 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### ⚙️ Фреймворки и среды
+### ⚙️ Frameworks And Environments
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Deno](https://img.shields.io/badge/deno%20/%20runtime-000000?style=for-the-badge&logo=deno&logoColor=white)
 ![Disnake](https://img.shields.io/badge/disnake-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine&logoColor=blue)
 
-### 🗄️ Базы данных
+### 🗄️ Databases
 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🛠️ Инструменты
+### 🛠️ Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## 🚀 Проекты
+## Activity
 
-### **World Politics Bot** 🌍
+![WakaActivity](https://wakatime.com/insights/animated/days.gif) 
+[![Discord Presence](https://lanyard.cnrad.dev/api/978692133240340541)](https://discord.com/users/978692133240340541) 
 
-Масштабная стратегия для Discord, имитирующая мировую политику и экономику.
-
-- **Особенность:** Автоматизация процессов и уникальные механики
-- **Стек:** javascript, deno, `discordeno.js`, работа с асинхронными циклами.
 
 ## 📈 Статистика
 
@@ -52,13 +49,7 @@
 ## 📫 Связь со мной
 
 <p align="center">
-  <a href="https://funpay.com/users/9685101/" target="_blank">
-    <img src="https://img.shields.io/badge/FunPay-%234384D0?style=for-the-badge&logo=fortran" alt="Funpay"/>
-  </a>
-  <a href="https://t.me/itai215" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="mailto:pozdtest037@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <a href="https://funpay.com/users/9685101/" target="_blank"><img src="https://img.shields.io/badge/FunPay-%234384D0?style=for-the-badge&logo=fortran" alt="Funpay"/></a>
+  <a href="https://t.me/itai215" target="_blank"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="mailto:pozdtest037@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
