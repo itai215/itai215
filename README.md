@@ -38,15 +38,16 @@ I am a developer from Israel, specializing on **Python** .
 ## Activity
 
 ![WakaActivity](https://wakatime.com/insights/animated/days.gif) 
-[![Discord Presence](https://lanyard.cnrad.dev/api/978692133240340541)](https://discord.com/users/978692133240340541) 
+[![Discord Presence](https://lanyard.cnrad.dev/api/978692133240340541)](https://discord.com/users/978692133240340541)  
+<img src="https://lanyard.kyrie25.me/api/978692133240340541?theme=dark&bg=1a1b27&animated=true" />
 
 
-## 📈 Статистика
+## 📈 Stats
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=itai215&show_icons=true&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=itai215&layout=compact&theme=radical)
 
-## 📫 Связь со мной
+## 📫 Contact Me
 
 <p align="center">
   <a href="https://funpay.com/users/9685101/" target="_blank"><img src="https://img.shields.io/badge/FunPay-%234384D0?style=for-the-badge&logo=fortran" alt="Funpay"/></a>
