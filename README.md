@@ -1,14 +1,14 @@
-# Привет, я Итай 👋
+# Hi, I am Itay 👋
 
 <img width="480" src="Assets/greeting.gif" alt="Greeting"/>
 
 ## 🌱 About Me
 
-I am a developer from Israel, specializing on **Python** .  
+I am a developer from Israel, specializing in **Python** .  
 
-- 🎓 I study at school, focused in technology stack.
-- 🤖 Developing bots at Discord.
-- 🎮 Experimenting with GameDev at **Godot** and **Roblox**.
+- 🎓 I study at school, that focused at technology stack.
+- 🤖 Developing discord bots.
+- 🎮 Experimenting with GameDev in **Godot** and **Roblox**.
 
 ## 🔧 Technologies and tools
 
