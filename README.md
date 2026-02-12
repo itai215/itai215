@@ -37,7 +37,7 @@ I am a developer from Israel, specializing on **Python** .
 
 ## Activity
 
-![WakaActivity](https://wakatime.com/insights/animated/days.gif) 
+![WakaActivity](https://wakatime.com/insights/animated/days.gif)  
 <iframe
   title="User Widget"
   width="289"
