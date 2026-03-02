@@ -36,10 +36,6 @@ I am a developer from Israel, specializing in **Python** .
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## Activity
-
-![Discord](https://discord-readme-badge.vercel.app/api?id=978692133240340541)
-
 ## 📈 Stats
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=itai215&show_icons=true&theme=radical)
